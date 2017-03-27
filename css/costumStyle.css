@@ -1,0 +1,28 @@
+
+.container {
+    display: flex;
+    
+    
+    
+}
+aside{
+    flex-grow: 0.1;
+}
+
+.red {
+    background-color: red;
+}
+
+.left {
+    border: 2px solid blue;
+}
+
+.foot {
+    border: 2px solid blue;
+    text-align: center;
+}
+
+.head {
+    border: 2px solid blue;
+    text-align: center;
+}
