@@ -1,0 +1,341 @@
+
+.as {
+    color: aliceblue;
+}
+
+
+.up {
+    
+    display: flex;
+    flex-direction: column;   
+    
+    background-color: black;
+    
+}
+
+#korot {
+    color: white;
+}
+
+.senior{
+    color: blue;
+     font-size: 150%;
+    margin-left: 10%;
+
+    
+}
+.white{
+    color: white;
+    font-size: 200%;
+    margin-left: 5%;
+    margin-top: 40%;
+}
+.center{
+    text-align: center;
+}
+.border {
+    border-right: 1px solid red;
+    height: 70%;
+    margin-top: 7%;
+    margin-left: 3%;
+    background-color: rebeccapurple;
+}
+
+.white1 {
+    color: white;
+     font-size: 100%;
+    margin-left: 5%;
+    width: 100%;
+}
+
+.RightUp {
+    margin-left: 1%;
+    color: white;
+    font-size: 140%;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    
+
+    
+    
+    
+    
+}
+
+.border2 {
+    border-bottom: 1px solid white;
+    background-color: gold;
+}
+
+.down {
+    padding-left: 7%;
+}
+
+.about {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin-right: 40%;
+    margin-top: 20%;
+    
+}
+
+.lists {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.neum {
+    font-size: 70%;
+   display: flex;
+    
+    
+}
+
+.BorderDown {
+    border-bottom: 10px solid red;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px black;
+}
+
+.about1 {
+    height: 30%;
+}
+
+#info {
+
+   
+    display: flex;
+    flex-direction: row;
+   
+    
+    
+}
+
+#icons {
+    
+    margin-bottom: 10px;
+
+}
+
+
+
+#face {
+             list-style: none;
+    display: flex;
+    justify-content:space-around;
+    margin-top: 20px;
+    color:white;
+    
+}
+
+.kav {
+    border-bottom: 12px solid red;
+}
+
+#first{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    padding: 10px;
+}
+
+#description {
+    display: flex;
+    flex-direction: column;
+    max-width: 700px;
+    margin-right: 100px;
+}
+#skills{
+    display: flex;
+    
+
+}
+ul{
+    list-style: none;
+}
+#harta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+#info2 {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    
+}
+
+.description {
+    display: flex;
+    background-color:firebrick;
+       margin-left: 25%;
+    margin-right: auto;
+    
+    
+    height: 400px;
+    width: 675px; 
+    display: flex;
+    
+}
+
+.Experience {
+     color: black;
+    font-size: 200%;
+    margin-left: 5%;
+    margin-top: 40%;
+    
+}
+
+.orange {
+      color: orange;
+    font-size: 150%;
+    margin-left: 5%;
+
+}
+
+.borderRight {
+    border-right: 1px solid white;
+    margin-top: 7%;
+    margin-left: 3%;
+    
+}
+
+.BorderButtom {
+     border-bottom: 11px solid red;
+    
+}
+s
+#education {
+    display: flex;
+    flex-direction: column;
+    max-width: 700px;
+    margin-right: 100px;
+    
+}
+
+#middle {
+    display: flex;
+}
+
+#middle2 {
+    display: flex;
+    flex-direction: column;
+}
+
+#first2 {
+    display: flex;
+    flex-direction: row;
+    background-color: gainsboro;
+    padding: 10px;
+}
+
+#info3 {
+      display: flex;
+    flex-direction: column;
+    height: 350px;
+    width: 900px;
+}
+
+#description2 {
+     display: flex;
+    flex-direction: row;
+    max-width: 700px;
+    margin-right: 100px;
+}
+
+#Eduacation {
+      display: flex;
+    flex-direction: row;
+    background-color: gainsboro;
+    padding: 10px;
+}
+
+#infoEducation {
+     display: flex;
+    flex-direction: column;
+    
+    background-color: rgba(219, 205, 205, 0.62);
+}
+
+#pirut {
+    display: flex;
+    flex-direction: row;
+}
+
+#pirut3 {
+     display: flex;
+    flex-direction: row;
+}
+
+#Hobbies {
+        display: flex;
+    flex-direction: row;
+    background-color: gainsboro;
+    padding: 10px;
+}
+
+#infoHobbies {
+        display: flex;
+    flex-direction: column;
+    
+}
+
+#icons2 {
+     display: flex;
+    flex-direction: column;
+    
+    
+    
+}
+
+#skillOne {
+    display: flex;
+    background-color: yellow;
+     height: 200px;
+}
+
+#skillsTwo {
+    display: flex;
+    background-color: cadetblue;
+    height: 200px;
+  
+}
+
+#skills3 {
+    display: flex;
+    background-color: rgba(128, 128, 128, 0.1);
+    height: 100%;
+    
+    
+}
+
+#infoEducation2 {
+        display: flex;
+    flex-direction: column;
+     
+    
+}
+
+#kav2 {
+    display: flex;
+    border-bottom: 1px solid white;
+    
+    
+}
+
+#kav {
+    display: flex;
+    flex-direction: column;
+}
